@@ -168,6 +168,14 @@ All API requests are authenticated using JWT tokens managed through Supabase aut
   </table>
 </div>
 
+## Project Note
+
+**Note**: This app is no longer available on the App Store.
+
+This project served as a significant learning experience and technical development milestone for our team. Beyond building a full-stack mobile application, it provided valuable insights into cross-functional collaboration, agile development practices, and managing complex technical integrations across multiple platforms and services. The development process involved working with cutting-edge technologies, implementing AI-powered features, integrating third-party APIs, and delivering a production-ready application to both iOS and Android platforms.
+
+For our team, this project was instrumental in developing technical expertise in React Native, backend architecture, AI integration, and mobile app deployment, and the importance of marketing. It also offered crucial experience in team coordination, product strategy alignment, and executing a complete software development lifecycle—from initial concept through design, development, testing, and public release.
+
 ---
 
 <p align="center">Stay In The MIXX 🎵</p>
